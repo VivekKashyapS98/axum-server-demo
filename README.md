@@ -1,3 +1,3 @@
 # A demo axum server
 
-For comparing performance
+For performance testing.
