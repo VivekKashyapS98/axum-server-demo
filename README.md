@@ -1,4 +1,4 @@
-# A demo axum server
+# Axum server
 
 For performance testing.
 
